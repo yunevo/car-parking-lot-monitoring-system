@@ -36,13 +36,13 @@ ESP2's tasks:
 # Project component
 ![module](https://github.com/yunevo/car-parking-lot-monitoring-system/assets/156734673/ba5012b4-fdc9-4edb-aa89-aea9cad3bf78)
 
-3 ESP32 doit devkit v1
-Laptop
-OLED
-IC 74H595
-RFID NFC 13.56MHz Module
-OLED I2C 0.96 inch
-2 servo
+* 3 ESP32 doit devkit v1
+* Laptop
+* OLED
+* IC 74H595
+* RFID NFC 13.56MHz Module
+* OLED I2C 0.96 inch
+* 2 servo
 
 
 
