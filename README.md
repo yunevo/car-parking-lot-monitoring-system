@@ -27,10 +27,10 @@ ESP2's tasks:
 * MQTT communication: send parking slots tracking information
   
 ## Protocols and Technical points
-RTOS(FreeRTOS)
-SPI
-I2C
-MQTT
+* RTOS(FreeRTOS)
+* SPI
+* I2C
+* MQTT
 
 
 # Project component
